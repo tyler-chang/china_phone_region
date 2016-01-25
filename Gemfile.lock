@@ -1,0 +1,12 @@
+GEM
+  specs:
+    mobinfo (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mobinfo
+
+BUNDLED WITH
+   1.11.2
