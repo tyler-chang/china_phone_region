@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'china_phone_region'
-  s.version     = '0.0.1'
-  s.date        = '2016-01-20'
+  s.version     = '0.0.2'
+  s.date        = '2016-01-25'
   s.summary     = "Query regions!"
   s.description = "Query phone number and area code region!"
   s.authors     = ["Tyler Chang"]
